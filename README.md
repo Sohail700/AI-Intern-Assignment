@@ -1,3 +1,10 @@
+
+
+https://github.com/user-attachments/assets/4dbb9223-69b2-4345-b322-35c3dacbe27f
+
+
+
+
 # Interview Accelerator — Assignment 3
 
 A working AI-powered interview preparation prototype built for the **AI Product Engineer Intern — Assignment 3** brief.
