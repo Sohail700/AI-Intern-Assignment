@@ -1,0 +1,25 @@
+{
+  "name": "ai-interview-accelerator",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "next": "15.5.0",
+    "react": "19.1.1",
+    "react-dom": "19.1.1",
+    "openai": "5.15.0",
+    "pdf-parse": "1.1.1",
+    "mammoth": "1.10.0"
+  },
+  "devDependencies": {
+    "@types/node": "22.15.30",
+    "@types/react": "19.1.4",
+    "@types/react-dom": "19.1.2",
+    "typescript": "5.9.2"
+  }
+}
